@@ -2,12 +2,12 @@
 Menerapkan FIS (Fuzzy Inference System) menggunakan MATLAB fuzzy logic toolbox dan mengevaluasi kinerja siswa. Tujuannya adalah untuk mengetahui kinerja siswa secara keseluruhan. Kriteria evaluasi didasarkan pada tiga parameter masukan berikut. Keluaran dari sistem ini adalah nilai kinerja siswa dalam rentang [0, 10].
 
 Inputs:
-•	Akademik: Kinerja akademik diukur dengan CGPA (skala 0-10)
-•	Olahraga: Jumlah total permainan yang dimenangkan atau diikuti (skala 0-10)
-•	Logika : tingkat kecerdasan dan jumlah sertifikat (sertifikat partisipasi dan pemenang dalam kisaran 0 sampai 10)
+-	Akademik: Kinerja akademik diukur dengan CGPA (skala 0-10)
+-	Olahraga: Jumlah total permainan yang dimenangkan atau diikuti (skala 0-10)
+-	Logika : tingkat kecerdasan dan jumlah sertifikat (sertifikat partisipasi dan pemenang dalam kisaran 0 sampai 10)
 
 Outputs:
-•	Performa : skor siswa tertentu dalam kisaran [0, 10] disimpulkan berdasarkan seperangkat aturan.
+-	Performa : skor siswa tertentu dalam kisaran [0, 10] disimpulkan berdasarkan seperangkat aturan.
 
 #SCREENSHOTS
 
